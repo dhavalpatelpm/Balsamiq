@@ -6,7 +6,6 @@ Fumato One-Tap Reorder is a product case study focused on reducing friction in r
 
 This project demonstrates structured product thinking, business analysis, and data-driven decision-making.
 
----
 
 ## 🎯 Problem Statement
 
@@ -20,7 +19,6 @@ This repetitive effort:
 
 Data insight: A significant portion of users reorder the same items multiple times per month, indicating a clear opportunity for optimization.
 
----
 
 ## 🎯 Goals & Success Metrics
 
@@ -32,7 +30,6 @@ Data insight: A significant portion of users reorder the same items multiple tim
 * Reduce repeat order placement time by 50%
 * Achieve 25% CTR on the “Reorder” CTA
 
----
 
 ## 🧠 Product Strategy Approach
 
@@ -50,7 +47,6 @@ As a **Business Analyst**, the approach included:
 * Defining functional flows and edge cases
 * Ensuring feasibility with availability & pricing validation
 
----
 
 ## 🛠 Solution Design
 
@@ -63,7 +59,6 @@ As a **Business Analyst**, the approach included:
 * Clear modification before checkout
 * Intelligent handling of unavailable items
 
----
 
 ## 📱 User Flow
 
@@ -74,7 +69,6 @@ As a **Business Analyst**, the approach included:
 5. Proceed to Checkout
 6. Receive Confirmation
 
----
 
 ## 💼 Business Impact
 
@@ -84,7 +78,6 @@ As a **Business Analyst**, the approach included:
 * Higher customer lifetime value
 * Improved operational efficiency
 
----
 
 ## 🧩 Skills Demonstrated
 
@@ -95,16 +88,7 @@ As a **Business Analyst**, the approach included:
 * Stakeholder Alignment
 * Data-Driven Decision Making
 
----
 
 ## 📌 Conclusion
 
 This case study reflects structured product thinking combined with analytical business problem-solving. The One-Tap Reorder feature is a scalable, user-centric solution that directly drives measurable business growth.
-
----
-
-If you want, I can also:
-
-* Make it more **startup-focused**
-* Make it more **corporate/MNC polished**
-* Or add a **strong executive-style impact summary at the top** for recruiters.
